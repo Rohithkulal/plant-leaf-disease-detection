@@ -16,7 +16,7 @@ This project aims to help farmers and researchers identify plant diseases early,
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python
-- **Libraries:** TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib
+- **Libraries:** Pytorch, OpenCV, NumPy, Pandas, Matplotlib
 - **Environment:** Jupyter Notebook / Python Script
 
 ---
